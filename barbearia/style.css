@@ -1,5 +1,5 @@
     body {
-        background-color: rgb(146, 146, 146)
+        background-color: rgb(121, 121, 121)
     }
 
     h1 {
@@ -13,4 +13,16 @@
 
     b {
         color: rgb(75, 159, 255);  
+    }       
+
+    p {
+        text-align: center;
+
+    
     }
+
+    #banner {
+        width: 35%;
+        
+    }
+    
