@@ -12,7 +12,7 @@
     }
 
     b {
-        color: rgb(75, 159, 255);  
+        color: rgb(230, 250, 117);  
     }       
 
     p {
@@ -24,5 +24,24 @@
     #banner {
         width: 35%;
         
+    }
+    
+    main {
+       color:rgb(0, 0, 0)
+
+    
+    }
+
+    header {
+
+        color:rgb(244, 255, 97)
+    }
+
+    j {
+      color:rgb(255, 231, 93)
+    }
+    
+    br {
+      text-align: center;
     }
     
