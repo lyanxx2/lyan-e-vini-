@@ -1,0 +1,53 @@
+    body {
+        background-color: rgb(121, 121, 121)
+    }
+
+    h1 {
+         text-align: center;
+    
+    }
+    
+    p{
+        text-align: center;
+    }
+
+    b {
+        color: rgb(230, 250, 117);  
+    }       
+
+    p {
+        text-align: center;
+
+    
+    }
+
+    #banner {
+        width: 25%;
+        
+    }
+    
+    main {
+       color:rgb(0, 0, 0)
+
+    
+    }
+
+    header {
+
+        color:rgb(244, 255, 97)
+    }
+
+    j {
+      color:rgb(255, 231, 93)
+    }
+    
+    #images {
+         width: 25%;
+         
+     }
+
+     #images {
+        text-align: left;
+     }
+
+         
