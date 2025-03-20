@@ -1,6 +1,8 @@
 header {
-     background-color:aqua
-}
+     background-color:aqua;
+     padding: 20px 0;
+     
+}    
 
 nav li {
     display: inline;
@@ -14,4 +16,16 @@ nav a {
     font-size: 22px;
     text-decoration: none;
     
+}
+
+.caixa {
+    position: relative;
+    width: 940px;
+    margin: 0 auto;
+}
+
+nav {
+    position: absolute;
+    top: 110px;
+    right: 0;
 }
