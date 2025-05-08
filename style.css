@@ -1,5 +1,5 @@
 body {
-    background-color: white;
+    background-color:darkgray ;
 }
 
 header {background-color: darkgray;
@@ -75,24 +75,26 @@ font-size: 20px;
 font-size: 22px;
 font-weight: bold;
 margin-top: 10px;
+
     
 }
     
     
 nav a:hover{
-color: rgb(235, 231, 20);
+color: rgb(255, 230, 3);
 text-decoration: underline;
+
     
     
 }
     
 .produtos li:hover {
-border-color:rgb(228, 255, 108)
+border-color:rgb(255, 230, 3)
     
 }
     
 .produtos li:active {
-border-color:rgb(163, 192, 0)
+border-color:rgb(255, 60, 0)
     
 }
     
@@ -109,7 +111,7 @@ footer {
 }
 
 .copyright {
-    color: rgb(241, 209, 24);
+    color: rgb(255, 238, 0);
     font-size: 13px;
     margin-top: 20px;
 }
@@ -117,28 +119,32 @@ footer {
 .img-footer {
     width: 150px;
     
-    }
+}
     
     
-    main {
+main {
     
-    width: 940px;
-    margin: 0 auto;
-    }
+width: 940px;
+margin: 0 auto;
+}
     
-    form {
-    margin: 40px 0;
-    }
+form {
+margin: 40px 0;
+}
     
-    form la劵Barbearia do lyan e vinibel {
-    display: block;
-    font-size: 20px;
-    margin: 0 0 10px;
-    }
+form la劵Barbearia do lyan e vinibel {
+display: block;
+font-size: 20px;
+margin: 0 0 10px;
+}
     
-    form input {
-    display: block;
-    margin: 0 0 20px;
-    padding: 10px 25px;
-    width: 50%;
-    }
+form input {
+display: block;
+margin: 0 0 20px;
+padding: 10px 25px;
+width: 50%;
+}
+
+.img-footer {
+    width: 30%;
+}
